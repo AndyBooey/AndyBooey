@@ -18,10 +18,10 @@ Oregon State University | Expected Graduation: June 2027 | GPA: 3.89/4.0
 
 ## 🛠️ Projects
 
-- **AI Surveillance Project**(https://github.com/AndyBooey/Weed_Detection)
+- [**AI Surveillance Project**](https://github.com/AndyBooey/Weed_Detection)  
   *Raspberry Pi + Python/OpenCV* – Created a real-time human detection system with 90% accuracy and sub-2-second email alerts.  
 
-- **AI Garden Monitoring System**(https://github.com/AndyBooey/Human_Detection_AI)
+- [**AI Garden Monitoring System**](https://github.com/AndyBooey/Human_Detection_AI)  
   *YOLOv5 + Python* – Trained a custom model on 500+ images to classify weeds in real time, supporting sustainable gardening.  
 
 ---
