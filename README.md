@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Andy Bui!
 
-🎓 **Computer Science & Data Science Double Major**  
-Portland State University | Expected Graduation: June 2027 | GPA: 3.51/4.0  
+🎓 **Computer Science Applied: Artificial Intelligence**  
+Oregon State University | Expected Graduation: June 2027 | GPA: 3.89/4.0  
 
 💻 **Aspiring Software Engineer / Machine Learning Engineer** passionate about building impactful tools, exploring AI/ML, and solving real-world problems through code.
 
@@ -10,33 +10,34 @@ Portland State University | Expected Graduation: June 2027 | GPA: 3.51/4.0
 ## 🚀 About Me
 
 - 🔧 I love working with **TensorFlow, Python, and Linux** — from system-level programming to web apps.  
-- 🧠 Currently learning AI, Machine Learning, and Linear Algebra
-- 🌱 Interested in **AI/ML**, especially **object detection and model training **.  
-- 🤝 Open to collaboration on interesting projects and hackathons.  
+- 🧠 Currently learning **AI, Machine Learning, and Linear Algebra**  
+- 🌱 Interested in **AI/ML**, especially **object detection and model training**  
+- 🤝 Open to collaboration on interesting projects and hackathons  
 
 ---
 
 ## 🛠️ Projects
 
-- **AI Surveillance Project**
+- **AI Surveillance Project**  
   *Raspberry Pi + Python/OpenCV* – Created a real-time human detection system with 90% accuracy and sub-2-second email alerts.  
 
-- **AI Garden Monitoring System**
-  *YOLOv5 + Python* – Trained a custom model on 500+ images to classify weeds in real time, improving sustainable gardening.  
+- **AI Garden Monitoring System**  
+  *YOLOv5 + Python* – Trained a custom model on 500+ images to classify weeds in real time, supporting sustainable gardening.  
 
 ---
 
 ## 📈 GitHub Stats
 
-![Andy's GitHub stats](https://[github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default](https://github.com/AndyBooey))
+![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyBooey&show_icons=true&theme=default)
 
 ---
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/andybuii/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/andybuii/)
 - 📧 andybui911@gmail.com
-- 🏗️ Check out my [Pinned Repositories](https://github.com/your-username?tab=repositories](https://github.com/AndyBooey?tab=repositories))
+- 🏗️ [Pinned Repositories](https://github.com/AndyBooey?tab=repositories)
 
 ---
-⭐ **Fun fact:** I like ping pong and competitive Smash Bros
+
+⭐ **Fun fact:** I like ping pong and competitive Smash Bros.
