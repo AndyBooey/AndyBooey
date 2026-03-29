@@ -28,11 +28,6 @@ Oregon State University | Expected Graduation: June 2027 | GPA: 3.89/4.0
   *Vite + React + JavaScript XML* - Create a real-time lecture note summerizer that automatically takes notes as it listens to the professor
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndyBooey&show_icons=true&theme=radical&cache_seconds=1)
----
-
 ## 🌐 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andybuii/)
