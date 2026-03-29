@@ -30,8 +30,7 @@ Oregon State University | Expected Graduation: June 2027 | GPA: 3.89/4.0
 
 ## 📈 GitHub Stats
 
-![Andy's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndyBooey&show_icons=true&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndyBooey&show_icons=true&theme=radical&cache_seconds=1)
 ---
 
 ## 🌐 Connect With Me
